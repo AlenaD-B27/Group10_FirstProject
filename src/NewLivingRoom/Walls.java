@@ -6,7 +6,9 @@ public class Walls {
     // fill out all wholes
     // check it colors
     // check it all paint with colors
-    //to ready for paint 
+    //to ready for paint
+    // pain walls 1st paint
+    //pain walls 2nd painting
 
 
 
