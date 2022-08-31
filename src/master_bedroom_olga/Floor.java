@@ -6,6 +6,8 @@ public class Floor {
 
     // go to Menard's
 
+    // buy wooden parquet
+
 
 
 
