@@ -6,5 +6,7 @@ public class firstKitchen {
     // choose colors
     // find furniture
 
-
+    // find electronic
+    // buy dishes
+    // hire people
 }
