@@ -6,5 +6,10 @@ public class Furniture {
     // buy dresser
     //mirror
 
+    // lights
+    //wall picture
+    //chandelier
+
+
 
 }
