@@ -12,4 +12,11 @@ public class Walls {
     // walls need to dry for 24 hours
     // please, do not open the windows
 
+    // walls are dry
+    // james is back from day off
+    // I brought everything needed
+    // james hired his friend Tom (plumber) to help to install the bathroom furniture
+    // Tom installed the toilet bowl
+
+
 }

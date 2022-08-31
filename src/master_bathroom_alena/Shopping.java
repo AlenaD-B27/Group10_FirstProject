@@ -9,4 +9,6 @@ public class Shopping {
     // came to Ashley's
     // omg so expensive
     // still gonna buy stuff because I need it
+
+    // alright, bought toilet bowl, sinks and fittings
 }
