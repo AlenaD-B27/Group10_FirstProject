@@ -4,6 +4,8 @@ public class Floor {
 
     // hire the construction worker
 
+    // go to Menard's
+
 
 
 
